@@ -35,12 +35,10 @@
 ---
 
 ## GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mohamedmabrouk09&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedmabrouk09&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedmabrouk09&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 </p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mohamedmabrouk09&theme=tokyonight&hide_border=true" />
 </p>
