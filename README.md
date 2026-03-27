@@ -35,14 +35,8 @@
 ---
 
 ## GitHub Stats
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohamedmabrouk09&theme=tokyonight" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohamedmabrouk09&theme=tokyonight" width="49%" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohamedmabrouk09&theme=tokyonight&utcOffset=1" width="49%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamedmabrouk09&theme=tokyonight" width="98%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedmabrouk09&layout=donut&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mohamedmabrouk09&theme=tokyonight&hide_border=true" />
