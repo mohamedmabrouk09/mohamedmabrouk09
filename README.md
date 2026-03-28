@@ -35,9 +35,11 @@
 ---
 
 ## GitHub Stats
-<p align="center">
+<div align="inline">
+  <p align="center">
   <img src="https://github-readme-stats-pi-livid-77.vercel.app/api/top-langs/?username=mohamedmabrouk09&layout=donut&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mohamedmabrouk09&theme=tokyonight&hide_border=true" />
 </p>
+</div>
