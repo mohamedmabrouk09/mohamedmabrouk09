@@ -47,7 +47,6 @@
 </p>
 
 ---
----
 
 ## Books & Certifications
 
@@ -65,8 +64,10 @@
 
 </details>
 
+---
 
 ## GitHub Stats
+
 <div align="inline">
   <p align="center">
     <img src="https://github-readme-stats-pi-livid-77.vercel.app/api/top-langs/?username=mohamedmabrouk09&layout=donut&theme=tokyonight&hide_border=true" />
