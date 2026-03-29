@@ -30,6 +30,29 @@
 
 ---
 
+## 📄 Resume
+
+<p align="center">
+  <a href="./resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-View%20CV-blue?style=for-the-badge&logo=adobeacrobatreader" />
+  </a>
+</p>
+
+---
+
+## 📚 Books & Certifications
+
+> Things I've studied that shape how I write code.
+
+| Cover | Title | Author | Category |
+|:-----:|-------|--------|----------|
+| 🏛️ | **Clean Architecture** | Robert C. Martin (Uncle Bob) | Software Design |
+| ☕ | **OCP Oracle Certified Professional Java SE 17** | Oracle | Certification |
+| 📘 | **Domain-Driven Design** | Eric Evans | Software Design |
+| 📗 | **Implementing Domain-Driven Design** | Vaughn Vernon | Software Design |
+
+---
+
 ## Tech Stack
 
 <p align="center">
