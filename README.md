@@ -30,26 +30,31 @@
 
 ---
 
-## 📄 Resume
+## Resume
 
 <p align="center">
-  <a href="./resume.pdf">
-    <img src="MABROUK MOHAMED FR CV.pdf" />
+  <a href="./MABROUK MOHAMED FR CV.pdf">
+    <img src="https://img.shields.io/badge/Resume-View%20CV-blue?style=for-the-badge&logo=adobeacrobatreader" />
   </a>
 </p>
 
 ---
 
-## 📚 Books & Certifications
+## Books & Certifications
 
-> Things I've studied that shape how I write code.
+<details>
+  <summary>See what I have studied</summary>
+  <br/>
 
-| Cover | Title | Author | Category |
-|:-----:|-------|--------|----------|
-| 🏛️ | **Clean Architecture** | Robert C. Martin (Uncle Bob) | Software Design |
-| ☕ | **OCP Oracle Certified Professional Java SE 17** | Oracle | Certification |
-| 📘 | **Domain-Driven Design** | Eric Evans | Software Design |
-| 📗 | **Implementing Domain-Driven Design** | Vaughn Vernon | Software Design |
+  **Clean Architecture** — Robert C. Martin (Uncle Bob)
+
+  **OCP Oracle Certified Professional Java SE 17** — Oracle
+
+  **Domain-Driven Design** — Eric Evans
+
+  **Implementing Domain-Driven Design** — Vaughn Vernon
+
+</details>
 
 ---
 
@@ -64,9 +69,9 @@
 ## GitHub Stats
 <div align="inline">
   <p align="center">
-  <img src="https://github-readme-stats-pi-livid-77.vercel.app/api/top-langs/?username=mohamedmabrouk09&layout=donut&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mohamedmabrouk09&theme=tokyonight&hide_border=true" />
-</p>
+    <img src="https://github-readme-stats-pi-livid-77.vercel.app/api/top-langs/?username=mohamedmabrouk09&layout=donut&theme=tokyonight&hide_border=true" />
+  </p>
+  <p align="center">
+    <img src="https://streak-stats.demolab.com?user=mohamedmabrouk09&theme=tokyonight&hide_border=true" />
+  </p>
 </div>
