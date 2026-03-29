@@ -40,6 +40,15 @@
 
 ---
 
+## Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,python,c,html,css,react,tailwind,fastapi,nodejs,postgres,mongodb,firebase,docker,git,github,nginx&perline=9" />
+</p>
+
+---
+---
+
 ## Books & Certifications
 
 <details>
@@ -56,15 +65,6 @@
 
 </details>
 
----
-
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,python,c,html,css,react,tailwind,fastapi,nodejs,postgres,mongodb,firebase,docker,git,github,nginx&perline=9" />
-</p>
-
----
 
 ## GitHub Stats
 <div align="inline">
