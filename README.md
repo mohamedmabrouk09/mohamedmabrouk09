@@ -7,7 +7,7 @@
 
 <p align="center">
   I'm currently learning about compilers & interpreters 🧠 <br/>
-  Ask me about Java ☕ <br/>
+  Ask me anything about Java ☕ <br/>
   Reach me at: mabroukmohamed193@gmail.com <br/>
   Fun fact: ⚽ Football Player & 🎮 Gamer
 </p>
