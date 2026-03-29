@@ -34,7 +34,7 @@
 
 <p align="center">
   <a href="./resume.pdf">
-    <img src="https://img.shields.io/badge/Resume-View%20CV-blue?style=for-the-badge&logo=adobeacrobatreader" />
+    <img src="MABROUK MOHAMED FR CV.pdf" />
   </a>
 </p>
 
