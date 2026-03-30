@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenlwejY0MGx2eG9xZ2thcjlvaW55c2d6dmt3Mm1ha3NpZjQ4NzU2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gVlgj80ZLp9yo/giphy.gif" width="300" />
+  <img src="[https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenlwejY0MGx2eG9xZ2thcjlvaW55c2d6dmt3Mm1ha3NpZjQ4NzU2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gVlgj80ZLp9yo/giphy.gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHR4bzJlOHB5cHNqaWZqZm9nNmlpNW84ZmRkY2ZxMDVnb3VsMHVkdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLPQ6z2hlHmwFc4Hso/giphy.gif)" width="300" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Mohamed Mabrouk</h1>
