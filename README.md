@@ -33,7 +33,7 @@
 ## Resume
 
 <p align="center">
-  <a href="./MABROUK MOHAMED FR CV.pdf">
+  <a href="./mabrouk-mohamed.pdf">
     <img src="https://img.shields.io/badge/Resume-View%20CV-blue?style=for-the-badge&logo=adobeacrobatreader" />
   </a>
 </p>
