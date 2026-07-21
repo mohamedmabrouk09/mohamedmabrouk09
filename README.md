@@ -9,7 +9,7 @@
 
 ## Mohamed Mabrouk
 
-**Software Engineer · Backend · Cloud & DevOps · AI**
+**Software Engineer · Backend · DevOps · AI**
 
 [![GitHub](https://img.shields.io/badge/GitHub-mohamedmabrouk09-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamedmabrouk09)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Mabrouk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-mabrouk--/)
