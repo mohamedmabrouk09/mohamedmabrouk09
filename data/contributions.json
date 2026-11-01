@@ -1,17 +1,17 @@
 {
   "username": "mohamedmabrouk09",
-  "generated_at": "2026-10-31T11:16:07Z",
+  "generated_at": "2026-11-01T12:05:35Z",
   "range": {
-    "start": "2025-10-26",
-    "end": "2026-10-31"
+    "start": "2025-11-02",
+    "end": "2026-11-01"
   },
-  "total_contributions": 70,
-  "active_days": 25,
-  "avg_per_active_day": 2.8,
+  "total_contributions": 83,
+  "active_days": 26,
+  "avg_per_active_day": 3.2,
   "current_streak": {
-    "length": 0,
-    "start": null,
-    "end": null
+    "length": 1,
+    "start": "2026-10-31",
+    "end": "2026-10-31"
   },
   "longest_streak": {
     "length": 4,
@@ -19,14 +19,10 @@
     "end": "2026-03-30"
   },
   "best_day": {
-    "date": "2026-03-29",
-    "count": 11
+    "date": "2026-10-31",
+    "count": 12
   },
   "monthly": [
-    {
-      "month": "2025-10",
-      "total": 0
-    },
     {
       "month": "2025-11",
       "total": 2
@@ -73,38 +69,14 @@
     },
     {
       "month": "2026-10",
-      "total": 3
+      "total": 16
+    },
+    {
+      "month": "2026-11",
+      "total": 0
     }
   ],
   "days": [
-    {
-      "date": "2025-10-26",
-      "count": 0
-    },
-    {
-      "date": "2025-10-27",
-      "count": 0
-    },
-    {
-      "date": "2025-10-28",
-      "count": 0
-    },
-    {
-      "date": "2025-10-29",
-      "count": 0
-    },
-    {
-      "date": "2025-10-30",
-      "count": 0
-    },
-    {
-      "date": "2025-10-31",
-      "count": 0
-    },
-    {
-      "date": "2025-11-01",
-      "count": 0
-    },
     {
       "date": "2025-11-02",
       "count": 0
@@ -1543,7 +1515,7 @@
     },
     {
       "date": "2026-10-27",
-      "count": 3
+      "count": 4
     },
     {
       "date": "2026-10-28",
@@ -1559,6 +1531,10 @@
     },
     {
       "date": "2026-10-31",
+      "count": 12
+    },
+    {
+      "date": "2026-11-01",
       "count": 0
     }
   ]
